@@ -1,6 +1,6 @@
 ## Hey 👋
 My name is Augusto Carlos, I'm a <b>web developer</b> <img src="https://github.com/augusto-carlos/augusto-carlos/blob/master/assets/dev.gif" width="30px">, computer science student and a technology enthusiast around the programming universe with a focus on the web.
-
+<br>
 <a href="https://in.linkedin.com/in/augusto-carlos-4499431a6">
     <img align="left" alt="Augusto Carlos | Linkedin" width="24px" src="https://github.com/augusto-carlos/augusto-carlos/blob/master/assets/linkedin.svg" />
 </a>
