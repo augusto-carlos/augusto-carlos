@@ -1,4 +1,8 @@
+
+<img align="left" src="https://github.com/augusto-carlos/augusto-carlos/blob/master/assets/computer_gif.svg">
+
 ## Hey 👋
+
 My name is Augusto Carlos, I'm a <b>web developer</b> <img src="https://github.com/augusto-carlos/augusto-carlos/blob/master/assets/dev.gif" width="30px">, computer science student and a technology enthusiast around the programming universe with a focus on the web.
 
 <a href="https://in.linkedin.com/in/augusto-carlos-4499431a6">
@@ -16,4 +20,3 @@ My name is Augusto Carlos, I'm a <b>web developer</b> <img src="https://github.c
 <a href="https://augusto-carlos.github.io/website">
     <img align="left" alt="Augusto Carlos | Website," width="20px" src="https://github.com/augusto-carlos/augusto-carlos/blob/master/assets/link.svg" />
 </a>
-  
