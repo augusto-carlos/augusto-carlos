@@ -1,5 +1,5 @@
 
-<img align="left" width="270px" src="https://github.com/augusto-carlos/augusto-carlos/blob/master/assets/coding.svg">
+<img align="left" width="270px" src="https://github.com/augusto-carlos/augusto-carlos/blob/master/assets/coding.gif">
 
 ## Hey 👋
 
